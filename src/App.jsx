@@ -7,6 +7,7 @@ import { ListWithMap } from './components/list/ListWithMap';
 import { ListWithForLoop } from './components/list/ListWithForLoop';
 import { Counter } from './components/counter/Counter';
 import { From } from './components/form/Form';
+import { Todo } from './components/todo/Todo';
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
   return (
     <div className="App">
       <h2>useState() hooks'as</h2>
+      <Todo/>
       <Counter/>
       <From/>
 
