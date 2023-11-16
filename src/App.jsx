@@ -8,12 +8,16 @@ import { ListWithForLoop } from './components/list/ListWithForLoop';
 import { Counter } from './components/counter/Counter';
 import { From } from './components/form/Form';
 import { Todo } from './components/todo/Todo';
+import { Cart } from './components/cart/Cart';
 
 function App() {
   
 
   return (
     <div className="App">
+      <h2>Props from child to parent</h2>
+      <Cart />
+      
       <h2>useState() hooks'as</h2>
       <Todo/>
       <Counter/>
