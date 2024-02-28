@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# BIT Full stack developer course – Part 7. React intro. Initialisation
+# BIT Full stack developer course – Part 7. React intro.
 
 _My journey to become a full stack developer_
 
@@ -11,7 +11,7 @@ _My journey to become a full stack developer_
 
 ## 🌟 About
 
-This project is a part of my workbook from Full stack developers course at BIT This is the 7th part of the course –  React intro. Initialisation.
+This project is a part of my workbook from Full stack developers course at BIT This is the 7th part of the course –  React intro.
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
@@ -28,7 +28,7 @@ View deployed result on [my github](https://madrakas.github.io/bit_07_react_intr
 6. [JavaScript Kanban website](https://github.com/madrakas/bit_06_js-kanban)
     1. [Practice No.1: Random color app](https://github.com/madrakas/bit_06_01_homework_random_color_app)
     2. [Practice No.2: Simple JS game](https://github.com/madrakas/bit_06_02_homework_simple-game/)
-7. React intro. Initialisation. (Current repository)
+7. React intro. (Current repository)
 
 ## 🎯 Project features/goals
 
@@ -36,6 +36,7 @@ View deployed result on [my github](https://madrakas.github.io/bit_07_react_intr
     *   React initialistaion and local run specifics
     *   React structure and props
     *   React Use hooks
+    *   Publish React app on github site
     
 ## 🧰 Getting Started
 
