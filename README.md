@@ -33,6 +33,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 *   Learn:
     *   React initialistaion and local run specifics
     *   React structure and props
+    *   React Use hooks
     
 ## 🧰 Getting Started
 
