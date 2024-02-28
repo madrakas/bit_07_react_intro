@@ -32,7 +32,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 *   Learn:
     *   React initialistaion and local run specifics
-    *   Bootstrap
+    *   React structure and props
     
 ## 🧰 Getting Started
 
